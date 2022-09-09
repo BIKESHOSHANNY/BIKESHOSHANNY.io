@@ -1,0 +1,61 @@
+
+    h1{color: darkblue;
+       font size: 10px;}
+    h2{color: mediumpurple;
+       font size: 20px;
+       font-family:cursive;}
+    h3{color: beige ;
+    	font-size: 30px;
+       }
+
+
+    h4{color:#A5A5A5;
+       font size:30px;
+     }
+    h5{color:green;
+      font size:40px;
+     }
+    h6{color: darkblue;
+	  fontsize: 34px;
+	 }
+/*this is the styling for heading 6*/
+/*
+p{
+	color: blue;
+	font-size: 20px;
+/*background-color: blue;
+*/
+/*background-color: yellow;
+
+
+   border-style: double;
+	border-color: yellowgreen;
+   border-width: thick;
+   margin-top: 20px;
+   margin-bottom: 30px;
+   margin-right: 150px;
+   margin-left: 150px;
+   padding-top:25px ;
+   padding-bottom:40px ;
+   padding-right:75px ;
+   padding-left: 75px;
+   padding: 25px 75px 40px;
+}*/
+.mombasa{
+   color: red;
+   border-style: dotted;
+   font-family: mochiy Pop One;
+   font-size: 33px;
+}
+.nairobi{
+   color: blueviolet;
+   border-style: solid;
+   font-family: fantasy;
+   font-size: 23px;
+}
+.kisumu{
+   color: goldenrod;
+   border-style: double;
+   font-family: cursive;
+   font-size: 40;
+}
